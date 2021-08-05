@@ -3,7 +3,7 @@
 
 #include "multitarefas.h"
 #include <semaphore.h>
-#define SIZE 10
+#define SIZE 12
 
 semaforo_t cheio = 0;
 semaforo_t vazio = N;
