@@ -1,7 +1,0 @@
-# ninja log v5
-31	990	6494598345616844	C:/Users/Lorenzo/Documents/GitHub/elc1048/MULTITAREFAS/IAR/Debug/Obj/main.o	adc81bebdee4ee2a
-2	1039	6494598345636791	C:/Users/Lorenzo/Documents/GitHub/elc1048/MULTITAREFAS/IAR/Debug/Obj/cpu-port.o	9920b37462106ed2
-1014	1245	6494598349386759	C:/Users/Lorenzo/Documents/GitHub/elc1048/MULTITAREFAS/IAR/Debug/Obj/multitarefas.o	139386c50d6c25ca
-1252	2093	6494598357585048	C:/Users/Lorenzo/Documents/GitHub/elc1048/MULTITAREFAS/IAR/Debug/Exe/prj0.out	79280c176a35c8d
-3	1315	6494646339922549	C:/Users/Lorenzo/Documents/GitHub/elc1048/MULTITAREFAS/IAR/Debug/Obj/main.o	adc81bebdee4ee2a
-1323	1901	6494646346310003	C:/Users/Lorenzo/Documents/GitHub/elc1048/MULTITAREFAS/IAR/Debug/Exe/prj0.out	79280c176a35c8d
