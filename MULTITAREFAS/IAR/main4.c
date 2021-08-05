@@ -140,7 +140,7 @@ void tarefa_6(void)
 	{
 		f++;
 		soma = a + b + c + d + e;
-		TarefaEspera(30000);                        //Espera por aproximadamente 30 segundos
+		TarefaEspera(30000);                        //Espera por aproximadamente 30 segundos.
 		printf("Soma dos contadores = %d",soma);
 	}
 }
